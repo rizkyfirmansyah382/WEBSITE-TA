@@ -1,0 +1,11 @@
+/* Tampilan desktop */
+h1.teks-manajemen {
+    font-size: 24px;
+}
+
+/* Tampilan mobile */
+@media (max-width: 767px) {
+    h1.teks-manajemen {
+        font-size: 18px;
+    }
+}
